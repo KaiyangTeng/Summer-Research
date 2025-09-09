@@ -3,6 +3,12 @@
 ## Project Overview
 
 This is a research project on **Deterministic Finite Automaton (DFA) separation problems**. The project investigates how to find the minimum-state DFA that can separate three binary strings, belonging to the field of computational complexity theory and automata theory.
+[Click here for the reserach paper](Separating Three Words by Finite Automata.pdf)
+
+
+
+
+
 
 ## Research Problem
 
