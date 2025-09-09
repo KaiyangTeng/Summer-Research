@@ -1,0 +1,2 @@
+str1		str2		str3		val1	val2	val3	dist	result		val
+10000	01000	00010	0	1	2	4	00000213		39----------- 0  1  3  

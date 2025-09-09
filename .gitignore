@@ -1,0 +1,9 @@
+# .gitignore 示例内容（针对 C++ 项目）
+*.o
+*.exe
+*.out
+.vscode/
+build/
+.DS_Store
+
+

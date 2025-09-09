@@ -1,0 +1,1 @@
+scp -i /Users/tengkaiyang/Desktop/DFA/michaelKey.pem /Users/tengkaiyang/Desktop/DFA/main.cpp ubuntu@3.139.56.193:/home/ubuntu/

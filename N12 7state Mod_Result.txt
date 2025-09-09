@@ -1,0 +1,5 @@
+The following tuples need to be separated by 7 states according to mod, but some of them can be separated by fewer states
+0 4 10
+0 6 10
+1 5 11
+1 7 11
